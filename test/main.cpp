@@ -13,6 +13,8 @@ int main()
     std::cout<<res<<std::endl;
     std::cout<<res1<<std::endl;
  
+    ccout << "World!" << endl;
+
     cout << "Hello World!" << endl;
 =======
     cout << "Hello World! Girish" << endl;
