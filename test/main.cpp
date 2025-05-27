@@ -12,8 +12,6 @@ int main()
 	int resu1 = a-b;
     std::cout<<res<<std::endl;
     std::cout<<res1<<std::endl;
-    
-    cout << "Hi" << endl;
  
     cout << "Hello World!" << endl;
 =======
